@@ -213,4 +213,4 @@ PanoramaStudio is offered as a full free version with all features and updates i
 Download **PanoramaStudio** today and unlock your creativity with breathtaking panoramic photography!
 
 ---
-**Last updated:** 2026-09-27 06:04:45 UTC
+**Last updated:** 2026-09-27 12:38:24 UTC
